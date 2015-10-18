@@ -1,1 +1,1 @@
-# Setting up IPython Notebook and Thirdparty Python libraries
+# Setting up IPython notebook and thirdparty Python libraries
