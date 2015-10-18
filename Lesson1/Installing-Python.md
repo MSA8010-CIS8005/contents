@@ -1,3 +1,5 @@
+## Installing Python
+
 All the labs and assignments in this course are Python-based. This page provides information about configuring Python on your machine.
 
 Also see: http://docs.continuum.io/anaconda/install
