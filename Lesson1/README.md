@@ -1,1 +1,1 @@
-# Lab01
+# Setting up IPython Notebook and Thirdparty Python libraries
