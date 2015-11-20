@@ -1,0 +1,1 @@
+mongod --dbpath "/Users/Arash/GitHub/Github-class-lessons/contents/Lesson8/NoSQL_Database/data/db"
